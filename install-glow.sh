@@ -4,7 +4,7 @@
 rm $0
 
 if [ "$1" == "" ]; then
-    VERSION="1.3.0"
+    VERSION="1.4.0"
 else
     VERSION="$1"
 fi
