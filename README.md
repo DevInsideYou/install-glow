@@ -1,4 +1,4 @@
-# Installs [Glow 1.4.0](https://github.com/charmbracelet/glow) on [Ubuntu](https://www.ubuntu.com/)
+# Installs [Glow 1.4.1](https://github.com/charmbracelet/glow) on [Ubuntu](https://www.ubuntu.com/)
 
 ```bash
 curl -fLOs https://script.install.devinsideyou.com/glow
@@ -9,5 +9,5 @@ sudo chmod +x glow && ./glow
 
 ```bash
 curl -fLOs https://script.install.devinsideyou.com/glow
-sudo chmod +x glow && ./glow 1.4.0
+sudo chmod +x glow && ./glow 1.4.1
 ```
